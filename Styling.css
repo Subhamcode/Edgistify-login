@@ -1,0 +1,30 @@
+.contain{
+    height:0px;
+    width: 70px;
+    margin-left: 10px;
+
+
+}
+.vaccine{
+    height:50px;
+    width:100px;
+    
+    float:left;
+    margin-left: 400px;
+    margin-top: 1px;
+    
+}
+.edgis{
+    height:50px;
+    width:100px;
+    
+    float:left;
+    margin-left: 400px;
+    margin-top: 1px;
+    
+}
+#ok{
+    font-family: cursive;
+    font-weight: bold;
+    color:green;
+}

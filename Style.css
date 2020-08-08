@@ -1,0 +1,43 @@
+.container{
+    background-image: url(0cFvKO.jpg);
+    text-align: center;
+    top: 130px;
+    width:400px;
+    height:500px;
+    margin-left: 500px;
+    padding:50px;
+    border-style: solid;
+    border-color:black;
+}
+#name{
+    margin-top: 20px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+#pass{
+    border-radius: 20px;
+    font-weight: bold;
+}
+#email{
+    border-radius:20px;
+    font-weight: bold;
+}
+#names{
+    color:greenyellow;
+    font-weight: bold;
+}
+#passes{
+    color:greenyellow;
+    font-weight: bold;
+}
+#passss{
+    color:greenyellow;
+    font-weight: bold;
+}
+#emails{
+    color:greenyellow;
+    font-weight: bold;
+}
+a{
+    color:aqua;
+}
